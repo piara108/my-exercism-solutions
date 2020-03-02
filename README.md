@@ -1,5 +1,6 @@
 ## Exercism Solutions
 
+#### My completed Exercism.io exercises: ####
 [Hello World](https://exercism.io/my/solutions/1174d62c61f04207b5853e77c1efb3c2)\
 [Two-fer](https://exercism.io/my/solutions/57453a624a6e45f18ee73c54478e7609)\
 [Resistor Color](https://exercism.io/my/solutions/a5982115edeb43aa9385bc7422affe2a)\
@@ -13,4 +14,4 @@
 [Nucleotide Count](https://exercism.io/my/solutions/c95a1c6c06a24f80b0b578643a0751b1)\
 [Scrabble Score](https://exercism.io/my/solutions/31e73e51ae264234bb61e342c7484d16)\
 [Difference of Squares](https://exercism.io/my/solutions/859240035bd14424aac3c9e8c4f18934)\
-[Protein Translation](https://exercism.io/my/solutions/ad7118fcb9c44c57b3139cdd1f7dd081)\
+[Protein Translation](https://exercism.io/my/solutions/ad7118fcb9c44c57b3139cdd1f7dd081)
