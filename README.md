@@ -1,6 +1,6 @@
 ## Exercism Solutions
 
-#### My completed Exercism.io exercises: ####
+#### Completed exercises: ####
 - [Hello World](https://exercism.io/my/solutions/1174d62c61f04207b5853e77c1efb3c2)
 - [Two-fer](https://exercism.io/my/solutions/57453a624a6e45f18ee73c54478e7609)
 - [Resistor Color](https://exercism.io/my/solutions/a5982115edeb43aa9385bc7422affe2a)
