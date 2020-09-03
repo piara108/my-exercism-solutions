@@ -1,2 +1,6 @@
+# Reverse String
+
 def reverse(text):
-    pass
+    return ''.join([x for x in text[::-1]])
+
+print(reverse('text'))
